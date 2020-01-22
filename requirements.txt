@@ -1,0 +1,6 @@
+aio-tcpserver>=0.0.3
+cryptography>=2.8
+coloredlogs>=10.0
+requests>=2.22.0
+PyKCS11>=1.5.5
+wget>=3.2
